@@ -32,7 +32,7 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 - Looking for new opportunities in Tech to move into Project Management, Sustainable Tech or Cloud Security.
 ❓Ask about Cloud Computing, Service Management, Agile or Tech careers.
 
-**Interests: **
+**Interests:**
 - Art & Culture, reading, travelling, movies, theatre, mindfulness, sports, listening to podcasts and music.
 - 💥 I have completed a number of adrenaline sports
 
