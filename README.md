@@ -7,11 +7,9 @@ Hi there, I'm <a href="https://linktr.ee/aopong" target="_blank" rel="noreferrer
 I am Senior Analyst, STEM Ambassador, and love travelling!
 </h2> 
 
-## More About Me
-
 As a Senior IT professional, I have a keen interest to be a Technical Project Manager with an interest in Accessibility and Sustainability. I enjoying mentoring, volunteering and using tech for good to drive change.
 
-👩‍💼Pronouns: She/Her
+👩‍💼 Pronouns: She/Her
 
 🗃️ I have experience in multiple industries from Retail, Automative, Financial and Consulting.
 
@@ -27,12 +25,7 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 
 - I am a Professional Member of the British Computer Society (MBCS)
 - I have recently achieved Chartered IT Professional (CITP) through British Computer Society.
-- Achieved MCE: Certified Microsoft Innovative Educator
-- Achieved Scrum Alliance Certified Scrum Master (CSM)
-- Achieved ICAgile Certified Professional - Agile Coaching (ICP-ACC)
-- Achieved AWS Cloud Practitioner through AWS She Skills Programme with   Accenture
 - Microsoft Cloud Skills Challenge 2021
-- Completed in Women in Cloud Computing scholarship with Coursera to achieve Microsoft Azure/AI/Data Fundamentals
 - *Working towards APM Chartered Project Professional (ChPP)
 - *Working towards Certified ServiceNow Administrator (CSA)
 - 📽️ Projects I am working on IT Sustainable Tech and using Tech for Good.
@@ -51,9 +44,15 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 <a href="https://instagram.com/cs41ao"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## Education
+
+- Achieved MCE: Certified Microsoft Innovative Educator
+- Achieved Scrum Alliance Certified Scrum Master (CSM)
+- Achieved ICAgile Certified Professional - Agile Coaching (ICP-ACC)
+- Achieved AWS Cloud Practitioner through AWS She Skills Programme with Accenture
+- Completed in Women in Cloud Computing scholarship with Coursera to achieve Microsoft Azure/AI/Data Fundamentals
 
 ## Technical Skills
 
