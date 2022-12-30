@@ -32,7 +32,7 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 - A UK STEM Ambassador
 - 👩‍🏫 I am a Technology Mentor for Cajigo 100 Women in Tech Mentoring programme.
 - Looking for new opportunities in Tech to move into Project Management, Sustainable Tech or Cloud Security.
-❓Ask about Cloud Computing, Service Management, Agile or Tech careers.
+- ❓Ask about Cloud Computing, Service Management, Agile or Tech careers.
 
 ## Interests
 - Art & Culture, reading, travelling, movies, theatre, mindfulness, sports, listening to podcasts and music.
@@ -46,8 +46,12 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## Education
+<a href="https://www.buymeacoffee.com/aopong" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
 
+## Education
+- Bsc (Honours) Computing and IT (University of Surrey)
 - Achieved MCE: Certified Microsoft Innovative Educator
 - Achieved Scrum Alliance Certified Scrum Master (CSM)
 - Achieved ICAgile Certified Professional - Agile Coaching (ICP-ACC)
@@ -55,10 +59,21 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 - Completed in Women in Cloud Computing scholarship with Coursera to achieve Microsoft Azure/AI/Data Fundamentals
 
 ## Technical Skills
+- Azure
+- AWS
+- Jira
+- ServiceNow
+- Databases
+- HTML
 
 ## Other Skills
+- Mentoring
+- Coaching
+- CV and LinkedIn profile revamp
 
 ## Resources
+- Books
+- Podcasts
 
 ## 📝 Latest Blog Posts
 
