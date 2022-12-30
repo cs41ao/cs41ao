@@ -24,12 +24,11 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 ## 📜 Summary
 
 - I have recently achieved Chartered IT Professional (CITP) through British Computer Society.
-- 🎉 Professional Membership of BCS / MIET / RSA.
-- Microsoft Cloud Skills Challenge 2021
+- Microsoft Cloud Skills Challenge 2021-2022
 - *Working towards APM Chartered Project Professional (ChPP)
 - *Working towards Certified ServiceNow Administrator (CSA)
 - 📽️ Projects I am working on IT Sustainable Tech and using Tech for Good.
-- A UK STEM Ambassador
+- 🎉 Professional Membership of BCS / MIET / STEM Learning.
 - 👩‍🏫 I am a Technology Mentor for Cajigo 100 Women in Tech Mentoring programme.
 - Looking for new opportunities in Tech to move into Project Management, Sustainable Tech or Cloud Security.
 - ❓Ask about Cloud Computing, Service Management, Agile or Tech careers.
@@ -40,17 +39,9 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 
 ## 📫 Connect with me ......
 
--<a href="https://www.linkedin.com/in/akua-opong"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/akua-opong"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/cs41ao"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
-
-<p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-</p>
-
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
