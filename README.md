@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
 
 <h3 align="center">
 Hi there, I'm <a href="https://linktr.ee/aopong" target="_blank" rel="noreferrer">Akua</a> 👋
@@ -63,6 +60,6 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 **Tech Blogs:**
 ## 📝 Latest Blog Posts
 
-- [Women in Tech Series Interview]([https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022](https://thetrendycoder.com/women-in-tech-series-interview-with-akua-opong/)
-- [STEM Careers for Young people](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9](https://futurefirst.org.uk/stem-careers-advice-for-young-people/)
-- [Women in STEM]([https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b](https://theblackwomenintech.com/story/akua/)
+- [Women in Tech Series Interview](https://thetrendycoder.com/women-in-tech-series-interview-with-akua-opong/)
+- [STEM Careers for Young people](https://futurefirst.org.uk/stem-careers-advice-for-young-people/)
+- [Women in STEM](https://theblackwomenintech.com/story/akua/)
