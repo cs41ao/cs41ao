@@ -23,8 +23,8 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 
 ## 📜 Summary
 
-- I am a Professional Member of the British Computer Society (MBCS)
 - I have recently achieved Chartered IT Professional (CITP) through British Computer Society.
+- 🎉 Professional Membership of BCS / MIET / RSA.
 - Microsoft Cloud Skills Challenge 2021
 - *Working towards APM Chartered Project Professional (ChPP)
 - *Working towards Certified ServiceNow Administrator (CSA)
@@ -43,6 +43,14 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 -<a href="https://www.linkedin.com/in/akua-opong"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/cs41ao"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
+
+<p align="center">
+<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
+
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -80,3 +88,7 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 - [Women in Tech Series Interview](https://thetrendycoder.com/women-in-tech-series-interview-with-akua-opong/)
 - [STEM Careers for Young people](https://futurefirst.org.uk/stem-careers-advice-for-young-people/)
 - [Women in STEM](https://theblackwomenintech.com/story/akua/)
+
+<hr>
+<p align="center">
+  <i>Nelson Mandela – Education is the most powerful weapon which you can use to change the world.</i>
