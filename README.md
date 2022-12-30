@@ -23,7 +23,7 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 
 - 👀 I’m looking to collaborate on projects.
 
-📜 **Summary:**
+📜 ## Summary
 
 - I am a Professional Member of the British Computer Society (MBCS)
 - I have recently achieved Chartered IT Professional (CITP) through British Computer Society.
@@ -41,23 +41,25 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 - Looking for new opportunities in Tech to move into Project Management, Sustainable Tech or Cloud Security.
 ❓Ask about Cloud Computing, Service Management, Agile or Tech careers.
 
-**Interests:**
+## Interests
 - Art & Culture, reading, travelling, movies, theatre, mindfulness, sports, listening to podcasts and music.
 - 💥 I have completed a number of adrenaline sports
 
-📫 **Connect with me ......**
-- LinkedIn 
-- Social Media
+📫 ## Connect with me ......**
 
-**Education:**
+-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
 
-**Technical Skills:**
+## Education
 
-**Other Skills:**
+## Technical Skills
 
-**Resources:**
+## Other Skills
 
-**Tech Blogs:**
+## Resources
+
 ## 📝 Latest Blog Posts
 
 - [Women in Tech Series Interview](https://thetrendycoder.com/women-in-tech-series-interview-with-akua-opong/)
