@@ -3,11 +3,7 @@
 Hi there, I'm <a href="https://linktr.ee/aopong" target="_blank" rel="noreferrer">Akua</a> 👋
 </h3>
 
-<h2 align="center">
-I am Senior Analyst within Service Management. I am currently working in the Financial Industry.
-</h2> 
-
-As a Senior IT professional, I am looking to become a Technical Project Manager with an interest in Accessibility and Sustainability. I enjoying mentoring, volunteering and using tech for good to drive change. I love reading about how we can use Responsible AI, assistive technology and cloud solutions to build innovative solutions.
+I am Senior Analyst within Service Management. I am currently working in the Financial Industry. As a Senior IT professional, I am looking to become a Technical Project Manager with an interest in Accessibility and Sustainability. I enjoying mentoring, volunteering and using tech for good to drive change. I love reading about how we can use Responsible AI, assistive technology and cloud solutions to build innovative solutions.
 
 👩‍💼 Pronouns: She/Her
 
@@ -34,7 +30,7 @@ As a Senior IT professional, I am looking to become a Technical Project Manager 
 - ❓Ask about Cloud Computing, Service Management, Agile or Tech careers.
 
 ## 🧐 Interests
-- 🎨 Art & Culture, 📖 reading, ✈️ travelling, 🎬 movies, 🎭 theatre, 🧘‍♀️ mindfulness, 🏟️ sports, listening to podcasts and music 🎶.
+- 🎨 Art & Culture, 📖 reading, ✈️ travelling, 🎬 movies, 🎭 theatre, 🧘‍♀️ mindfulness, 🏟️ sports, 🔉listening to podcasts and music 🎶
 - 💥 I have completed a number of adrenaline sports 🧗‍♀️
 
 ## 📫 Connect with me :handshake:
@@ -43,11 +39,12 @@ As a Senior IT professional, I am looking to become a Technical Project Manager 
 <a href="https://instagram.com/cs41ao"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
 
-💬 If you have any questions/feedback, please do not hesitate to reach out to me!
-
 <a href="https://www.buymeacoffee.com/aopong" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
+</br>
+
+💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## 📖 Education
 - Bsc (Honours) Computing and IT (University of Surrey)
