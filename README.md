@@ -3,7 +3,7 @@
 Hi there, I'm <a href="https://linktr.ee/aopong" target="_blank" rel="noreferrer">Akua</a> 👋
 </h3>
 
-I am Senior Analyst within Service Management. I am currently working in the Financial Industry. As a Senior IT professional, I am looking to become a Technical Project Manager with an interest in Accessibility and Sustainability. I enjoying mentoring, volunteering and using tech for good to drive change. I love reading about how we can use Responsible AI, assistive technology and cloud solutions to build innovative solutions.
+I am Senior Analyst within Service Management. I am currently working in the Financial Industry. As a Senior IT professional, I am looking to become a Technical Project Manager. I enjoying mentoring, volunteering and using tech for good to drive change. I love reading about how we can use Responsible AI, assistive technology and cloud solutions to build innovative solutions.
 
 👩‍💼 Pronouns: She/Her
 
@@ -19,8 +19,8 @@ I am Senior Analyst within Service Management. I am currently working in the Fin
 
 ## 📜 Summary
 
-- Microsoft Cloud Skills Challenge 2021-2022
-- I have recently achieved Chartered IT Professional (CITP) through British Computer Society.
+- ✨ Microsoft Cloud Skills Challenge 2021-2022
+- ✨ I have recently achieved Chartered IT Professional (CITP) through British Computer Society.
 - *Working towards APM Chartered Project Professional (ChPP)
 - *Working towards Certified ServiceNow Administrator (CSA)
 - 📽️ Projects: I am working on IT Sustainable Tech and using Tech for Good.
@@ -39,20 +39,25 @@ I am Senior Analyst within Service Management. I am currently working in the Fin
 <a href="https://instagram.com/cs41ao"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
 
+<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+|--|--|
+
+💬 If you have any questions/feedback, please do not hesitate to reach out to me!
+
+<br>
 <a href="https://www.buymeacoffee.com/aopong" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
 </br>
 
-💬 If you have any questions/feedback, please do not hesitate to reach out to me!
-
 ## 📖 Education
 - Bsc (Honours) Computing and IT (University of Surrey)
 - Achieved MCE: Certified Microsoft Innovative Educator
 - Achieved Scrum Alliance Certified Scrum Master (CSM)
+- Achieved Scrum Alliance Certified Product Owner (CSPO)
 - Achieved ICAgile Certified Professional - Agile Coaching (ICP-ACC)
 - Achieved AWS Cloud Practitioner through AWS She Skills Programme with Accenture
-- Completed in Women in Cloud Computing scholarship with Coursera to achieve Microsoft Azure/AI/Data Fundamentals
+- Completed the Women in Cloud Computing scholarship with Coursera to achieve Microsoft Azure/AI/Data Fundamentals
 
 ## 💻 Technical Skills
 - Azure
