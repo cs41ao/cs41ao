@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://linktr.ee/aopong" target="_blank" rel="noreferrer
 
 I am Senior Analyst within Service Management. I am currently working in the Financial Industry. 
 
-As a Senior IT professional, I am looking to become a Technical Project Manager. I enjoy mentoring, volunteering and using tech for good to drive change. I love reading about how we can use Responsible AI, assistive technology and cloud solutions to build innovative solutions.
+As a Senior IT professional, I am looking to become a Technical Project Manager. I enjoy mentoring, volunteering and using tech for good to create social impact. I love reading about how we can use Responsible AI, assistive technology and cloud solutions to build innovative solutions.
 
 👩‍💼 Pronouns: She/Her
 
