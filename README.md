@@ -4,10 +4,10 @@ Hi there, I'm <a href="https://linktr.ee/aopong" target="_blank" rel="noreferrer
 </h3>
 
 <h2 align="center">
-I am Senior Analyst, STEM Ambassador, and love travelling!
+I am Senior Analyst within Service Management. I am currently working in the Financial Industry.
 </h2> 
 
-As a Senior IT professional, I have a keen interest to be a Technical Project Manager with an interest in Accessibility and Sustainability. I enjoying mentoring, volunteering and using tech for good to drive change.
+As a Senior IT professional, I am looking to become a Technical Project Manager with an interest in Accessibility and Sustainability. I enjoying mentoring, volunteering and using tech for good to drive change. I love reading about how we can use Responsible AI, assistive technology and cloud solutions to build innovative solutions.
 
 👩‍💼 Pronouns: She/Her
 
@@ -17,39 +17,39 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 
 🌠 I have a keen interest in Accessibility, IT Governance and Sustainability 🌍
 
-- 📚 I’m currently learning Cloud Computing, Project Management and Agile Technologies.
+📚 I’m currently learning Cloud Computing, Project Management and Agile Technologies.
 
-- 👀 I’m looking to collaborate on projects.
+👀 I’m looking to collaborate on projects.
 
 ## 📜 Summary
 
-- I have recently achieved Chartered IT Professional (CITP) through British Computer Society.
 - Microsoft Cloud Skills Challenge 2021-2022
+- I have recently achieved Chartered IT Professional (CITP) through British Computer Society.
 - *Working towards APM Chartered Project Professional (ChPP)
 - *Working towards Certified ServiceNow Administrator (CSA)
-- 📽️ Projects I am working on IT Sustainable Tech and using Tech for Good.
-- 🎉 Professional Membership of BCS / MIET / STEM Learning.
+- 📽️ Projects: I am working on IT Sustainable Tech and using Tech for Good.
+- 🎉 Professional Membership of BCS / CMI / MIET / STEM Learning.
 - 👩‍🏫 I am a Technology Mentor for Cajigo 100 Women in Tech Mentoring programme.
-- Looking for new opportunities in Tech to move into Project Management, Sustainable Tech or Cloud Security.
+- 🗄️Looking for new opportunities in Tech to move into Project Management, Sustainable Tech or Cloud Security.
 - ❓Ask about Cloud Computing, Service Management, Agile or Tech careers.
 
-## Interests
-- Art & Culture, reading, travelling, movies, theatre, mindfulness, sports, listening to podcasts and music.
-- 💥 I have completed a number of adrenaline sports
+## 🧐 Interests
+- 🎨 Art & Culture, 📖 reading, ✈️ travelling, 🎬 movies, 🎭 theatre, 🧘‍♀️ mindfulness, 🏟️ sports, listening to podcasts and music 🎶.
+- 💥 I have completed a number of adrenaline sports 🧗‍♀️
 
-## 📫 Connect with me ......
+## 📫 Connect with me :handshake:
 
 <a href="https://www.linkedin.com/in/akua-opong"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/cs41ao"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
 
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 <a href="https://www.buymeacoffee.com/aopong" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
 
-## Education
+## 📖 Education
 - Bsc (Honours) Computing and IT (University of Surrey)
 - Achieved MCE: Certified Microsoft Innovative Educator
 - Achieved Scrum Alliance Certified Scrum Master (CSM)
@@ -57,7 +57,7 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 - Achieved AWS Cloud Practitioner through AWS She Skills Programme with Accenture
 - Completed in Women in Cloud Computing scholarship with Coursera to achieve Microsoft Azure/AI/Data Fundamentals
 
-## Technical Skills
+## 💻 Technical Skills
 - Azure
 - AWS
 - Jira
@@ -65,14 +65,14 @@ As a Senior IT professional, I have a keen interest to be a Technical Project Ma
 - Databases
 - HTML
 
-## Other Skills
+## 🗃️ Other Skills
 - Mentoring
 - Coaching
 - CV and LinkedIn profile revamp
 
-## Resources
-- Books
-- Podcasts
+## 📖 Resources
+- 📒 Books
+- 🎧 Podcasts
 
 ## 📝 Latest Blog Posts
 
