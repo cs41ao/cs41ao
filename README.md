@@ -1,17 +1,17 @@
 
-<h3 align="center">
+<h2 align="center">
 Hi there, I'm <a href="https://linktr.ee/aopong" target="_blank" rel="noreferrer">Akua</a> 👋
-</h3>
+</h2>
 
-🪆About Me
+##🪆About Me
 
-- I am Senior Analyst within Service Management. I am currently working in the Financial Industry. As a Senior IT professional, I am looking to become a Technical Project Manager. I enjoying mentoring, volunteering and using tech for good to drive change. I love reading about how we can use Responsible AI, assistive technology and cloud solutions to build innovative solutions.
+I am Senior Analyst within Service Management. I am currently working in the Financial Industry. As a Senior IT professional, I am looking to become a Technical Project Manager. I enjoying mentoring, volunteering and using tech for good to drive change. I love reading about how we can use Responsible AI, assistive technology and cloud solutions to build innovative solutions.
 
 👩‍💼 Pronouns: She/Her
 
 🗃️ I have experience in multiple industries from Retail, Automative, Financial and Consulting.
 
-👩‍💻  I’m interested in increasing the number of women in STEM subjects.
+👩‍💻 I’m interested in increasing the number of women in STEM subjects.
 
 🌠 I have a keen interest in Accessibility, IT Governance and Sustainability 🌍
 
@@ -45,12 +45,6 @@ Hi there, I'm <a href="https://linktr.ee/aopong" target="_blank" rel="noreferrer
 </br>
 
 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
-
-<br>
-<a href="https://www.buymeacoffee.com/aopong" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="20" width="120" >
-    </a>
-</br>
 
 ## 📖 Education
 - Bsc (Honours) Computing and IT (University of Surrey)
