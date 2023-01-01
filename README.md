@@ -36,6 +36,7 @@ As a Senior IT professional, I am looking to become a Technical Project Manager.
 ## 🧐 Interests
 - 🎨 Art & Culture, 📖 reading, ✈️ travelling, 🎬 movies, 🎭 theatre, 🧘‍♀️ mindfulness, 🏟️ sports, 🔉listening to podcasts and music 🎶
 - 💥 I have completed a number of adrenaline sports 🧗‍♀️
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I did hang gliding over  **ipanema beach rio**.<br>
 
 ## 📫 Connect with me :handshake:
 
