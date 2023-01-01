@@ -45,7 +45,7 @@ I am Senior Analyst within Service Management. I am currently working in the Fin
 
 Follow me on my socials! <a href="https://www.linkedin.com/in/akua-opong"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/cs41ao"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>  Like My Work......
-<a href="https://www.buymeacoffee.com/aopong" target="_blank" rel="noreferrer nofollow">
+<a href="https://www.buymeacoffee.com/akuaopong" target="_blank" rel="noreferrer nofollow">
      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="20" width="120" >
     </a>
 </br>
