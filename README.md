@@ -3,33 +3,35 @@
 Hi there, I'm <a href="https://linktr.ee/aopong" target="_blank" rel="noreferrer">Akua</a> 👋
 </h2>
 
-🪆About Me
+👩‍ More About Me
 
-I am Senior Analyst within Service Management. I am currently working in the Financial Industry. 
+I am Senior Analyst within Service Management. I am currently working in the Financial Industry.   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 As a Senior IT professional, I am looking to become a Technical Project Manager. I enjoy mentoring, volunteering and using tech for good to create social impact. I love reading about how we can use Responsible AI, assistive technology and cloud solutions to build innovative solutions.
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-👩‍💼 Pronouns: She/Her
+😄 Pronouns: She/Her
 
-🗃️ I have experience in multiple industries from Retail, Automative, Financial and Consulting.
+🏦 I have experience in multiple industries from Retail, Automative, Financial and Consulting.
 
-👩‍💻 I’m interested in increasing the number of women in STEM subjects.
+👨🏻‍💻 I have a keen interest in Accessibility, IT Governance and Sustainability 🌍
 
-🌠 I have a keen interest in Accessibility, IT Governance and Sustainability 🌍
+🌱 I’m currently learning Cloud Computing, Project Management and Agile Technologies.
 
-📚 I’m currently learning Cloud Computing, Project Management and Agile Technologies.
+🤝 I’m looking to collaborate on projects.
 
-👀 I’m looking to collaborate on projects.
+🍕 Conferences, meetups & tech events.
+
+📰 When I am free, read/write blogs, I journal, I read biographies, career development and fiction novels
 
 ## 📜 Summary
 
 - ✨ Microsoft Cloud Skills Challenge 2021-2022
 - ✨ I have recently achieved Chartered IT Professional (CITP) through British Computer Society.
-- *Working towards APM Chartered Project Professional (ChPP)
-- *Working towards Certified ServiceNow Administrator (CSA)
+- 🎯*Working towards APM Chartered Project Professional (ChPP)
+- 🎯*Working towards Certified ServiceNow Administrator (CSA)
 - 📽️ Projects: I am working on IT Sustainable Tech and using Tech for Good.
 - 🎉 Professional Membership of BCS / CMI / MIET / STEM Learning.
 - 👩‍🏫 I am a Technology Mentor for Cajigo 100 Women in Tech Mentoring programme.
