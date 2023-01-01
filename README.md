@@ -39,7 +39,7 @@ I am Senior Analyst within Service Management. I am currently working in the Fin
 ## 🧐 Interests
 - 🎨 Art & Culture, 📖 reading, ✈️ travelling, 🎬 movies, 🎭 theatre, 🧘‍♀️ mindfulness, 🏟️ sports, listening to podcasts and music 🎶
 - 💥 I have completed a number of adrenaline sports 🧗‍♀️
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I did hang gliding over  **Ipanema beach in Rio de Janeiro, Brazil** 💖.<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;Fun fact: I did hang gliding over  **Ipanema beach in Rio de Janeiro, Brazil** 💖.<br>
 
 ## 📫 Connect with me :handshake:
 
@@ -53,7 +53,7 @@ Follow me on my socials! <a href="https://www.linkedin.com/in/akua-opong"><img a
 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 <details>
-     <summary><h3>Some other achievements about me🎉🎉🎉🎉🎉🎉</h3></summary>
+     <summary><h2>Some other achievements about me 🎉🎉🎉🎉🎉🎉</h2></summary>
   <br>
 
 ## 📖 Education
