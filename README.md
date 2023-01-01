@@ -39,7 +39,7 @@ I am Senior Analyst within Service Management. I am currently working in the Fin
 ## 🧐 Interests
 - 🎨 Art & Culture, 📖 reading, ✈️ travelling, 🎬 movies, 🎭 theatre, 🧘‍♀️ mindfulness, 🏟️ sports, listening to podcasts and music 🎶
 - 💥 I have completed a number of adrenaline sports 🧗‍♀️
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I did hang gliding over  **Ipanema beach (Rio de Janeiro, Brazil)**💖.<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I did hang gliding over  **Ipanema beach Rio de Janeiro, Brazil** 💖.<br>
 
 ## 📫 Connect with me :handshake:
 
