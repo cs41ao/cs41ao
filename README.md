@@ -52,6 +52,10 @@ Follow me on my socials! <a href="https://www.linkedin.com/in/akua-opong"><img a
 
 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
+<details>
+     <summary><h3>Some other achievements about me🎉🎉🎉🎉🎉🎉</h3></summary>
+  <br>
+
 ## 📖 Education
 - 🎓 &nbsp;Bsc (Honours) Computing and IT (University of Surrey)
 - 🎯 &nbsp;Achieved MCE: Certified Microsoft Innovative Educator
@@ -85,6 +89,7 @@ Follow me on my socials! <a href="https://www.linkedin.com/in/akua-opong"><img a
 - [Women in STEM](https://theblackwomenintech.com/story/akua/)
 <!-- BLOG-POST-LIST:END -->
 
+</details>
 
 ## <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <i> Nelson Mandela – Education is the most powerful weapon which you can use to change the world.</i>
