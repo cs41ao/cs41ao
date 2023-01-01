@@ -9,6 +9,9 @@ I am Senior Analyst within Service Management. I am currently working in the Fin
 
 As a Senior IT professional, I am looking to become a Technical Project Manager. I enjoy mentoring, volunteering and using tech for good to create social impact. I love reading about how we can use Responsible AI, assistive technology and cloud solutions to build innovative solutions.
 
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+
 👩‍💼 Pronouns: She/Her
 
 🗃️ I have experience in multiple industries from Retail, Automative, Financial and Consulting.
@@ -76,11 +79,13 @@ As a Senior IT professional, I am looking to become a Technical Project Manager.
 - 🎧 Podcasts
 
 ## 📝 Latest Blog Posts
-
+<!-- BLOG-POST-LIST:START -->
 - [Women in Tech Series Interview](https://thetrendycoder.com/women-in-tech-series-interview-with-akua-opong/)
 - [STEM Careers for Young people](https://futurefirst.org.uk/stem-careers-advice-for-young-people/)
 - [Women in STEM](https://theblackwomenintech.com/story/akua/)
+<!-- BLOG-POST-LIST:END -->
 
-<hr>
-<p align="center">
-  <i>Nelson Mandela – Education is the most powerful weapon which you can use to change the world.</i>
+
+## <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+<i> Nelson Mandela – Education is the most powerful weapon which you can use to change the world.</i>
+
